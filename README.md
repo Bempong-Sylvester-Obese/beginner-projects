@@ -138,7 +138,7 @@ Build a console-based task management system that can store, modify, and persist
 
 2. **Project Structure Recommendation**
    ```
-   BeginnerCPPProjects/
+   beginner-projects/
    ├── Project1_NumberGame/
    │   └── number_game.cpp
    ├── Project2_Calculator/
